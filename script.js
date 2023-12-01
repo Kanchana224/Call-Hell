@@ -21,7 +21,7 @@ setTimeout(() => {
                     setTimeout(() => {
                       document
                         .getElementById("display")
-                        .innerText=("Happy Indipendance Day");
+                        .innerText=("Happy Independence Day");
                     }, 1000);
                   }, 1000);
                 }, 1000);
